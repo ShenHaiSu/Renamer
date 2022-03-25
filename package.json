@@ -1,12 +1,12 @@
 {
   "name": "renamer",
   "version": "1.0.0",
-  "description": "",
+  "description": "基于Node.js的随机文件命名小工具",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "神海粟",
+  "license": "MIT"
 }
