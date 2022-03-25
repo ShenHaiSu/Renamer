@@ -1,0 +1,8 @@
+{
+  "targetDir": [
+    "./test",
+    "C:/test2"
+  ],
+  "stringPool": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  "newNameLength": 10
+}
