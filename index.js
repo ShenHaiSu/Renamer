@@ -63,7 +63,6 @@ async function renameMainFunc(dir) {
           let fileArray = file.split(".");
           extension = "." + fileArray[fileArray.length - 1];
           if (fileArray.length === 1) extension = "";
-
         }
         let newName = "";
         {
