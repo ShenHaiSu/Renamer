@@ -75,8 +75,7 @@ async function renameMainFunc(dir) {
           }
         }
         let outNewName = dir + "/" + newName + extension;
-        fs.renameSync(dir + "/" + file,outNewName);
-
+        fs.renameSync(dir + "/" + file, outNewName);
       })
     })
 }
